@@ -1,0 +1,16 @@
+main>.container {
+	padding: 60px 15px 0;
+}
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 970px !important;
+	}
+}
+
+#dice {
+	font-size: 70px;
+	width: 150px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
