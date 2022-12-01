@@ -1,2 +1,2 @@
-# secret-santa-2021
+# Secret Santa Client
  

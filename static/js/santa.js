@@ -1,6 +1,6 @@
 function decrypt() {
 	var cypher = $('#token').val();
-	var key = 'x67mACxf90Eg_YjpavsQCUPzmHwCwQD8GaxCwHruTHw=';
+	var key = '0t0IFg1SpOXb4qDPEDZeglB9qH-hYmWQGOh5JXIoKsc=';
 
 	var plain = fernet_decode(cypher, key);
 	$('#plaintext').val(plain);
